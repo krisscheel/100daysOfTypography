@@ -20,43 +20,64 @@
   margin: 0;
 }
 
+/* INTRODUCTION PAGE */
 .intro {
-  color: white;
+  color: #ffffff;
   font-family: 'Righteous', cursive;
-  font-size: 100px;
+  font-size: 10rem;
   background-color: blue;
-  height: 110vh;
+  height: 120vh;
   display: flex;
   flex-direction: column;
-  align-items:  center;
+  align-items: center;
   justify-content: center;
 }
 
 .introContent {
-  justify-content: center;
-  align-items: center;
+  font-family: 'Righteous', cursive;
   width: 60vw;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 0 auto;
   color: white;
-  font-family: 'Righteous', cursive;
-  font-size: 120px;
   animation: fadein 1.5s 0.5s both cubic-bezier(.17,.67,.9,.33);
 }
 
+/* DAY ONE CONTENT */
 .one {
-  background-color: #d7f7ee;
-  color: #0d6149;
-  font-family: 'Abril Fatface', cursive;
-  font-size: 10rem;
-  position: relative;
-  padding: 30px;
-  
+  height: 180vh;
+  background-color: #faf9f9;
+  align-items: center;
+  justify-content: center;
+  padding: 300px 150px 300px 150px;
 }
 
-.one h1 {
-  width: 30%;
-  opacity: 30%;
+#just {
+  width: 80%;
+  height: 120vh;
+  line-height: 22rem;
+  font-family: 'Paytone One', sans-serif;
+  color: #ff0A54;
+  font-size: 26rem;
+  opacity: 60%;
+  text-align: center;
+  margin: 0 auto;
+  justify-content: center;
+  position: absolute;
+}
+
+#somewhere {
+  font-family: 'Pacifico', cursive;
+  color: #080808;
+  font-size: 10rem;
+  transform: rotate(-4deg);
+  margin: 0 auto;
+  position: relative;
+  top: 280px;
+  left: 300px;
 }
 
 .number1 {
@@ -65,18 +86,38 @@
   right: 47%;
   width: 200px;
   height: 200px;
-  background-color: #d7f7ee;
+  background-color: #faf9f9;
   border-radius: 100%;
   z-index: 1;
   opacity: 100%;
 }
 
 .number1 h2 {
-  color: #0d6149;
+  color: #ff0A54;
+  opacity: 60%;
   margin: 40px auto;
   text-align: center;
   font-size: 4rem;
+  font-family: 'Roboto', sans-serif;
 }
+
+@media (max-width : 640px) {
+ .one {
+   height: 120vh;
+   padding: 200px 20px 50px 20px;
+ }
+ #just {
+   font-size: 9rem;
+   line-height: 8rem;
+ }
+ #somewhere {
+   font-size: 3rem;
+   top: 100px;
+   left: 120px;
+ }
+}
+
+/* DAY TWO CONTENT */
 
 .two {
   background-color: papayawhip;
@@ -166,8 +207,25 @@
 }
 
 .five {
-  color: blue;
+  color: blue
   background-color: rosybrown;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: rebeccapurple;
+  font-size: 50px;
   position: relative;
+}
+
+.number5 {
+  position: absolute;
+  top: -80px;
+  right: 47%;
+  width: 200px;
+  height: 200px;
+  background-color: #203;
+  border-radius: 100%;
+  z-index: 1;
+  opacity: 100%;
 }
 
