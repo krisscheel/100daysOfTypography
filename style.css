@@ -101,29 +101,46 @@
   font-family: 'Roboto', sans-serif;
 }
 
+/* DAY ONE media queries */
 @media (max-width : 640px) {
- .one {
-   height: 120vh;
-   padding: 200px 20px 50px 20px;
- }
- #just {
-   font-size: 9rem;
-   line-height: 8rem;
- }
- #somewhere {
-   font-size: 3rem;
-   top: 100px;
-   left: 120px;
- }
+.one {
+  height: 120vh;
+  padding: 200px 20px 50px 20px;
+}
+#just {
+  font-size: 9rem;
+  line-height: 8rem;
+}
+#somewhere {
+  font-size: 3rem;
+  top: 100px;
+  left: 120px;
+}
 }
 
 /* DAY TWO CONTENT */
 
 .two {
-  background-color: papayawhip;
-  color: rebeccapurple;
-  font-size: 50px;
+  height: 180vh;
+  align-items: center;
+  justify-content: center;
+  background-color: #FFFF00;
   position: relative;
+  padding: 6%;
+}
+
+.two p {
+  color: rebeccapurple;
+  font-family: 'Comfortaa', cursive;
+  font-weight: 300;
+  font-size: 4rem;
+  z-index: 1;
+}
+
+.two span {
+  color: red;
+  font-family: 'Comfortaa', cursive;
+  font-weight: 700;
 }
 
 .number2 {
@@ -132,17 +149,29 @@
   right: 47%;
   width: 200px;
   height: 200px;
-  background-color: papayawhip;
+  background-color: #FFFF00;
   border-radius: 100%;
-  z-index: 1;
   opacity: 100%;
+  z-index:0;
 }
 
 .number2 h2 {
-  color: red;
+  color: rebeccapurple;
   margin: 40px auto;
   text-align: center;
   font-size: 4rem;
+}
+
+/* DAY TWO media queries */
+@media (max-width : 1000px) {
+.two {
+  height: 120vh;
+  padding: 30% 10% 20% 10%;
+}
+.two p {
+  font-size: 0.9rem;
+}
+
 }
 
 .three {
