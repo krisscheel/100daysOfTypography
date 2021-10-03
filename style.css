@@ -161,6 +161,7 @@
   margin: 10% auto;
   text-align: center;
   font-size: 4rem;
+  font-family: 'Roboto', sans-serif;
 }
 
 /* DAY TWO media queries */
@@ -176,13 +177,28 @@
 }
 
 .three {
-  background-color: lightblue;
+  background-color: #ffccef;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: rebeccapurple;
+  color: #024e7d;
   font-size: 50px;
+
+  height: 140vh;
+  align-items: center;
+  justify-content: center;
   position: relative;
+  padding: 6%;
+}
+
+.three {
+  line-height: 120px;
+}
+
+.three #sunday {
+  font-family: 'Rampart One', cursive;
+  font-size: 20rem;
+  padding: 30% 20% 10% 20%;
 }
 
 .number3 {
@@ -191,17 +207,18 @@
   right: 47%;
   width: 200px;
   height: 200px;
-  background-color: lightblue;
+  background-color: #ffccef;
   border-radius: 100%;
-  z-index: 1;
+  z-index: 0;
   opacity: 100%;
 }
 
 .number3 h2 {
-  color: red;
+  color: #024e7d;
   margin: 40px auto;
   text-align: center;
   font-size: 4rem;
+  font-family: 'Roboto', sans-serif;
 }
 
 .four {
@@ -237,7 +254,7 @@
 }
 
 .five {
-  color: blue
+  color: blue;
   background-color: rosybrown;
   background-position: center;
   background-size: cover;
