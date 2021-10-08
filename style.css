@@ -10,16 +10,6 @@
   }
 }
 
-.template {
-  width: 100vw;
-  height: 90vh;
-  position: relative;
-}
-
-.template h1 {
-  margin: 0;
-}
-
 /* INTRODUCTION PAGE */
 .intro {
   color: #ffffff;
@@ -47,38 +37,6 @@
 }
 
 /* DAY ONE CONTENT */
-.one {
-  height: 180vh;
-  background-color: #faf9f9;
-  align-items: center;
-  justify-content: center;
-  padding: 300px 150px 300px 150px;
-}
-
-#just {
-  width: 80%;
-  height: 120vh;
-  line-height: 22rem;
-  font-family: 'Paytone One', sans-serif;
-  color: #ff0A54;
-  font-size: 26rem;
-  opacity: 60%;
-  text-align: center;
-  margin: 0 auto;
-  justify-content: center;
-  position: absolute;
-}
-
-#somewhere {
-  font-family: 'Pacifico', cursive;
-  color: #080808;
-  font-size: 10rem;
-  transform: rotate(-4deg);
-  margin: 0 auto;
-  position: relative;
-  top: 280px;
-  left: 300px;
-}
 
 .number1 {
   position: absolute;
@@ -92,6 +50,7 @@
   opacity: 100%;
 }
 
+
 .number1 h2 {
   color: #ff0A54;
   opacity: 60%;
@@ -99,6 +58,59 @@
   text-align: center;
   font-size: 4rem;
   font-family: 'Roboto', sans-serif;
+}
+
+.one {
+  height: 180vh;
+  background-color: #faf9f9;
+  align-items: center;
+  justify-content: center;
+  padding: 300px 150px 300px 150px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.container {
+  width: 80%;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.set {
+  z-index: 1;
+  padding-top: 10%;
+}
+
+.set p {
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+
+.set p a {
+  text-decoration: none;
+}
+
+#just {
+  line-height: 22rem;
+  font-family: 'Paytone One', sans-serif;
+  color: #ff0A54;
+  font-size: 26rem;
+  opacity: 60%;
+}
+
+#somewhere {
+  font-family: 'Pacifico', cursive;
+  color: #080808;
+  font-size: 10rem;
+  transform: rotate(-4deg);
+  margin: 0 auto;
+  position: relative;
+  top: 0;
+  left: 0;
 }
 
 /* DAY ONE media queries */
@@ -119,35 +131,10 @@
 }
 
 /* DAY TWO CONTENT */
-
-.two {
-  height: 140vh;
-  align-items: center;
-  justify-content: center;
-  background-color: #FFFF00;
-  position: relative;
-  padding: 6%;
-}
-
-.two p {
-  color: rebeccapurple;
-  font-family: 'Comfortaa', cursive;
-  font-weight: 300;
-  font-size: 4rem;
-  z-index: 1;
-  padding: 10% 20% 10% 20%;
-}
-
-.two span {
-  color: red;
-  font-family: 'Comfortaa', cursive;
-  font-weight: 700;
-}
-
 .number2 {
   position: absolute;
   top: -80px;
-  right: 47%;
+  right: 50%;
   width: 200px;
   height: 200px;
   background-color: #FFFF00;
@@ -164,45 +151,71 @@
   font-family: 'Roboto', sans-serif;
 }
 
-/* DAY TWO media queries */
-@media (max-width : 1000px) {
 .two {
-  height: 120vh;
-  padding: 30% 10% 20% 10%;
-}
-.two p {
-  font-size: 2rem;
+  height: 160vh;
+  align-items: center;
+  justify-content: center;
+  background-color: #FFFF00;
+  position: relative;
 }
 
+.para {
+  text-align: center;
+  padding-top: 200px;
+}
+
+.two p {
+  color: rebeccapurple;
+  font-family: 'Comfortaa', cursive;
+  font-weight: 300;
+  font-size: 4rem;
+}
+
+#red {
+  color: red;
+  font-family: 'Comfortaa', cursive;
+  font-weight: 700;
+}
+
+.set p {
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  text-align: center;
+  padding-bottom: 100px;
+}
+
+/* DAY TWO media queries */
+@media (max-width : 1000px) {
+  .two {
+    height: 120vh;
+    padding: 30% 10% 20% 10%;
+  }
+  .two p {
+    font-size: 2rem;
+  }
 }
 
 .three {
   background-color: #ffccef;
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
   color: #024e7d;
   font-size: 50px;
-
   height: 140vh;
+  text-align: center;
   align-items: center;
   justify-content: center;
   position: relative;
-  padding: 6%;
-}
-
-.three {
   line-height: 120px;
 }
 
 .three #sunday {
   font-family: 'Rampart One', cursive;
   font-size: 20rem;
-  padding: 30% 20% 10% 20%;
+  padding-top: 20%;
 }
 
 .number3 {
-  position: absolute;
+  position: relative;
   top: -80px;
   right: 47%;
   width: 200px;
@@ -221,58 +234,217 @@
   font-family: 'Roboto', sans-serif;
 }
 
+/* DAY FOUR CONTENT */
+
 .four {
-  background: #203;
-  font-size: 50px;
+  height: 100vh;
   position: relative;
 }
 
-.four h1 {
-  background: #203;
-  color: #ffc;
-  text-shadow: 0 0 .1em, 0 0 .3em;
-  padding: 200px;
+.circular path {
+  fill: none;
+}
+
+.circular {
+  width: 20em;
+  height: 20em;
+  margin: 20em auto 0;
+  font-size: 1.1em;
+  font-family: 'Libre Baskerville', serif;
+}
+
+.circular svg {
+  display: block;
+  overflow: visible;
 }
 
 .number4 {
   position: absolute;
-  top: -80px;
-  right: 47%;
+  top: -440px;
+  right: 45%;
   width: 200px;
   height: 200px;
-  background-color: #203;
+  background-color: #ffffff;
   border-radius: 100%;
-  z-index: 1;
-  opacity: 100%;
 }
 
 .number4 h2 {
-  color: red;
+  color: #000000;
   margin: 40px auto;
   text-align: center;
   font-size: 4rem;
+  font-family: 'Roboto', sans-serif;
 }
 
+
 .five {
-  color: blue;
-  background-color: rosybrown;
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: rebeccapurple;
+  background-color: #f7f3e9;
+  color: #183a37;
   font-size: 50px;
+  height: 140vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
   position: relative;
+  line-height: 120px;
+}
+
+.topContainer {
+  padding-top: 500px;
+}
+
+#coffee {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 20rem;
+}
+
+#bagel {
+  font-family: 'Great Vibes', cursive;
+  font-size: 10rem;
+  padding-top: 4%;
 }
 
 .number5 {
   position: absolute;
   top: -80px;
-  right: 47%;
+  right: 45%;
   width: 200px;
   height: 200px;
-  background-color: #203;
+  background-color: #f7f3e9;
   border-radius: 100%;
-  z-index: 1;
-  opacity: 100%;
+}
+
+.number5 h2 {
+  color: #183a37;
+  margin: 40px auto;
+  text-align: center;
+  font-size: 4rem;
+  font-family: 'Roboto', sans-serif;
+}
+
+.five p {
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  text-align: center;
+  padding-top: 400px;
+}
+
+.six {
+  background-color: #264653;
+  height: 200vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.six h1 {
+  color: #dcf763;
+  font-size: 10rem;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+}
+
+.topSix {
+  width: 60%;
+  text-align: left;
+  margin: 0 auto;
+  padding-top: 500px;
+}
+
+.six p {
+  color: #ffffff;
+  font-size: 2rem;
+  margin: 0 auto;
+  padding-top: 200px;
+}
+
+.six span {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  text-align: center;
+}
+
+.seven {
+  background-color: #e6f0ec;
+  height: 200vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.seven h1 {
+  color: #1b263b;
+  font-size: 8rem;
+  font-family: 'Cardo', serif;
+  font-weight: 200;
+}
+
+#rest {
+  font-family: 'Fredoka One', cursive;
+  font-size: 20rem;
+}
+
+#part {
+  padding-top: 200px;
+}
+
+.topSeven {
+  width: 60%;
+  text-align: left;
+  margin: 0 auto;
+  padding-top: 500px;
+}
+
+.seven p {
+  color: #1b263b;
+  font-size: 2rem;
+  margin: 0 auto;
+  padding-top: 600px;
+}
+
+.seven a {
+  text-decoration: none;
+}
+
+
+.eight {
+  background-color: #400094;
+  background-color:;
+  height: 200vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.eight h1 {
+  color: #00ff00;
+  font-size: 45rem;
+  font-family: 'Cardo', serif;
+  font-weight: 200;
+  letter-spacing: 30px;
+  font-family: 'Monoton', cursive;
+}
+
+#tg span {
+  letter-spacing: -10px;
+}
+
+.topEight{
+  width: 50%;
+  text-align: left;
+  margin: 0 auto;
+  padding-top: 500px;
+}
+
+.eight p {
+  color: #f2eef6;
+  font-size: 2rem;
+  margin: 0 auto;
+  padding-top: 600px;
+}
+
+.eight a {
+  text-decoration: none;
 }
 
