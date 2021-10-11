@@ -488,3 +488,78 @@
   text-decoration: none;
 }
 
+
+.ten {
+  background-color: #03071e;
+  height: 140vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.ten h1 {
+  font-size: 18rem;
+  font-family: 'Bungee', cursive;
+}
+
+
+.tenContent {
+  padding-top: 20%;
+  z-index: 1; 
+}
+
+.tenContent h1 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: #ffecd1;
+}
+
+.ten p {
+  color: #ffecd1;
+  font-size: 2rem;
+  margin: 0 auto;
+  padding-top: 400px;
+}
+
+.ten a {
+  text-decoration: none;
+}
+
+
+.eleven {
+  background-color: #fefeff;
+  height: 140vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.eleven h1 {
+  font-size: 18rem;
+  font-family: 'Inter', sans-serif;
+}
+
+
+.eleven {
+  padding-top: 20%;
+  z-index: 1; 
+}
+
+.elevenContent h1 {
+  font-family: 'Inter', sans-serif;
+  color: #02040f;
+}
+
+.eleven p {
+  color: #02040f;
+  font-size: 2rem;
+  margin: 0 auto;
+  padding-top: 1200px;
+}
+
+.eleven a {
+  text-decoration: none;
+}
+
+
