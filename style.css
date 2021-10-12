@@ -533,17 +533,13 @@
   align-items: center;
   justify-content: center;
   position: relative;
+  padding-top: 20%;
+  z-index: 1;
 }
 
 .eleven h1 {
   font-size: 18rem;
   font-family: 'Inter', sans-serif;
-}
-
-
-.eleven {
-  padding-top: 20%;
-  z-index: 1; 
 }
 
 .elevenContent h1 {
@@ -561,5 +557,46 @@
 .eleven a {
   text-decoration: none;
 }
+
+/* twelve  */
+
+.twelve {
+  background-color: #f1faee;
+  height: 180vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding-top: 20%;
+  z-index: 1; 
+}
+
+.twelve h1 {
+  font-size: 18rem;
+  font-family: 'Inter', sans-serif;
+}
+
+.twelveContent h1 {
+  font-family: 'Mukta', sans-serif;
+  color: #e63946;
+}
+
+.twelveContent #diff {
+  font-family: 'Ephesis', cursive;
+  font-size: 28rem;
+}
+
+.twelve p {
+  color: #e63946;
+  font-size: 2rem;
+  margin: 0 auto;
+  padding-top: 1200px;
+}
+
+.twelve a {
+  text-decoration: none;
+}
+
+
 
 
