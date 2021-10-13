@@ -597,6 +597,42 @@
   text-decoration: none;
 }
 
+/* thirteen  */
+
+.thirteen {
+  background-color: #ffffff;
+  height: 180vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding-top: 20%;
+  z-index: 1; 
+}
+
+.thirteenContent {
+  height: 500px;
+  background-color: #000000;
+  line-height: 500px;
+}
+
+.thirteenContent h1 {
+  font-family: 'Fira Sans', sans-serif;
+  color: #ffffff;
+  font-size: 18rem;
+}
+
+.thirteen p {
+  color: #000000;
+  font-size: 3rem;
+  margin: 0 auto;
+  padding-top: 1200px;
+}
+
+.twelve a {
+  text-decoration: none;
+}
+
 
 
 
