@@ -634,5 +634,54 @@
 }
 
 
+/* fifteen */
+
+.fifteen {
+  background-color: #8d99ae;
+  height: 180vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding-top: 20%;
+  z-index: 1; 
+}
+
+.fifteenContent {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+#six {
+  font-family: 'Barlow', sans-serif;
+  color: #590d22;
+  font-size: 60rem;
+  opacity: 70%;
+}
+
+#club {
+  font-family: 'Taviraj', serif;
+  font-weight: 700;
+  font-size: 40rem;
+  color: #590d22;
+  line-height: 0.7;
+  letter-spacing: 2px;
+}
+
+.fifteen p {
+  color: #590d22;
+  font-size: 3rem;
+  margin: 0 auto;
+  padding-top: 1200px;
+}
+
+.fifteen a {
+  text-decoration: none;
+}
+
+
 
 
