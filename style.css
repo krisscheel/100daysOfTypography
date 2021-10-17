@@ -683,5 +683,82 @@
 }
 
 
+/* sixteen */
+
+.sixteen {
+  background-color: #ddbea9;
+  height: 180vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding-top: 20%;
+}
+
+.sixteenContent {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.sixteenContent h1 {
+  font-family: 'Georama', sans-serif;
+  color: #606c38;
+  font-size: 20rem;
+}
+
+.sixteen p {
+  color: #606c38;
+  font-size: 3rem;
+  margin: 0 auto;
+  padding-top: 1200px;
+}
+
+.sixteen a {
+  text-decoration: none;
+}
+
+/* seventeen */
+
+.seventeen {
+  background-image: url("floral.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 180vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding-top: 20%;
+}
+
+.seventeenContent {
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.seventeenContent h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #14213d;
+  font-size: 18rem;
+}
+
+.seventeen p {
+  color: #14213d;
+  font-size: 6rem;
+  margin: 0 auto;
+  padding-top: 1200px;
+}
+
+.seventeen a {
+  text-decoration: none;
+}
+
+
 
 
