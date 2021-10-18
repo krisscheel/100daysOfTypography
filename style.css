@@ -759,6 +759,51 @@
   text-decoration: none;
 }
 
+/* eighteen */
+
+.eightteen {
+  background-color: #ffffff;
+  height: 180vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding-top: 20%;
+}
+
+.eighteenContent {
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+}
+
+.eighteenContent h1 {
+  font-family: 'Anton', sans-serif;
+  color: #ff4d6d;
+  font-size: 40rem;
+  letter-spacing: 100px;
+}
+
+.eighteenContent #case {
+  color: #000000;
+  font-family: 'Recursive', sans-serif;
+  font-size: 6rem;
+}
+
+.eighteen p {
+  color: #ff4d6d;
+  font-size: 6rem;
+  margin: 0 auto;
+  padding-top: 1200px;
+}
+
+.eighteen a {
+  text-decoration: none;
+}
+
 
 
 
