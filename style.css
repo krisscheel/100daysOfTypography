@@ -761,7 +761,7 @@
 
 /* eighteen */
 
-.eightteen {
+.eighteen {
   background-color: #ffffff;
   height: 180vh;
   text-align: center;
@@ -803,6 +803,47 @@
 .eighteen a {
   text-decoration: none;
 }
+
+
+/* nineteen */
+
+.nineteen {
+  background-color: #a7e1f8;
+  height: 180vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.nineteenContent {
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10%;
+}
+
+.nineteenContent h1 {
+  font-family: 'Major Mono Display', monospace;
+  color: #ffe581;
+  font-size: 30rem;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.nineteen p {
+  color: #ffe581;
+  font-size: 6rem;
+  margin: 0 auto;
+  padding-top: 1200px;
+}
+
+.nineteen a {
+  text-decoration: none;
+}
+
+
 
 
 
