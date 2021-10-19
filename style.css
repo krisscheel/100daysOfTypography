@@ -36,6 +36,25 @@
   animation: fadein 1.5s 0.5s both cubic-bezier(.17,.67,.9,.33);
 }
 
+/* Template */
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-size: 6rem;
+  margin: 0 auto;
+}
+
+h2 {
+  margin: 40px auto;
+  text-align: center;
+  font-size: 4rem;
+  font-family: 'Roboto', sans-serif;
+}
+
+
 /* DAY ONE CONTENT */
 
 .number1 {
@@ -54,10 +73,6 @@
 .number1 h2 {
   color: #ff0A54;
   opacity: 60%;
-  margin: 40px auto;
-  text-align: center;
-  font-size: 4rem;
-  font-family: 'Roboto', sans-serif;
 }
 
 .one {
@@ -88,10 +103,6 @@
   font-size: 1.5rem;
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
-}
-
-.set p a {
-  text-decoration: none;
 }
 
 #just {
@@ -145,10 +156,6 @@
 
 .number2 h2 {
   color: rebeccapurple;
-  margin: 10% auto;
-  text-align: center;
-  font-size: 4rem;
-  font-family: 'Roboto', sans-serif;
 }
 
 .two {
@@ -228,10 +235,6 @@
 
 .number3 h2 {
   color: #024e7d;
-  margin: 40px auto;
-  text-align: center;
-  font-size: 4rem;
-  font-family: 'Roboto', sans-serif;
 }
 
 /* DAY FOUR CONTENT */
@@ -270,10 +273,6 @@
 
 .number4 h2 {
   color: #000000;
-  margin: 40px auto;
-  text-align: center;
-  font-size: 4rem;
-  font-family: 'Roboto', sans-serif;
 }
 
 
@@ -316,10 +315,6 @@
 
 .number5 h2 {
   color: #183a37;
-  margin: 40px auto;
-  text-align: center;
-  font-size: 4rem;
-  font-family: 'Roboto', sans-serif;
 }
 
 .five p {
@@ -403,10 +398,6 @@
   padding-top: 600px;
 }
 
-.seven a {
-  text-decoration: none;
-}
-
 
 .eight {
   background-color: #400094;
@@ -442,11 +433,6 @@
   margin: 0 auto;
   padding-top: 600px;
 }
-
-.eight a {
-  text-decoration: none;
-}
-
 
 .nine {
   background-color: #ebf2fa;
@@ -484,11 +470,6 @@
   padding-top: 400px;
 }
 
-.nine a {
-  text-decoration: none;
-}
-
-
 .ten {
   background-color: #03071e;
   height: 140vh;
@@ -521,10 +502,6 @@
   padding-top: 400px;
 }
 
-.ten a {
-  text-decoration: none;
-}
-
 
 .eleven {
   background-color: #fefeff;
@@ -552,10 +529,6 @@
   font-size: 2rem;
   margin: 0 auto;
   padding-top: 1200px;
-}
-
-.eleven a {
-  text-decoration: none;
 }
 
 /* twelve  */
@@ -629,11 +602,6 @@
   padding-top: 1200px;
 }
 
-.thirteen a {
-  text-decoration: none;
-}
-
-
 /* fifteen */
 
 .fifteen {
@@ -678,11 +646,6 @@
   padding-top: 1200px;
 }
 
-.fifteen a {
-  text-decoration: none;
-}
-
-
 /* sixteen */
 
 .sixteen {
@@ -714,10 +677,6 @@
   font-size: 3rem;
   margin: 0 auto;
   padding-top: 1200px;
-}
-
-.sixteen a {
-  text-decoration: none;
 }
 
 /* seventeen */
@@ -753,10 +712,6 @@
   font-size: 6rem;
   margin: 0 auto;
   padding-top: 1200px;
-}
-
-.seventeen a {
-  text-decoration: none;
 }
 
 /* eighteen */
@@ -800,16 +755,11 @@
   padding-top: 1200px;
 }
 
-.eighteen a {
-  text-decoration: none;
-}
-
-
 /* nineteen */
 
 .nineteen {
   background-color: #a7e1f8;
-  height: 180vh;
+  height: 100vh;
   text-align: center;
   align-items: center;
   justify-content: center;
@@ -834,14 +784,9 @@
 
 .nineteen p {
   color: #ffe581;
-  font-size: 6rem;
-  margin: 0 auto;
-  padding-top: 1200px;
+  padding-top: 10%;
 }
 
-.nineteen a {
-  text-decoration: none;
-}
 
 
 
