@@ -788,6 +788,44 @@ h2 {
 }
 
 
+/* twenty */
+
+.twenty {
+  background-color: #f9ab55;
+  height: 100vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.twentyContent {
+  width: 30%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10%;
+}
+
+.pos {
+ font-weight: 700;
+}
+
+.twentyContent h1 {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
+  color: #f7f5fb;
+  font-size: 20rem;
+}
+
+
+.twenty p {
+  color: #f7f5fb;
+  padding-top: 10%;
+}
+
+
 
 
 
