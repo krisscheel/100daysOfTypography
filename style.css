@@ -826,6 +826,82 @@ h2 {
 }
 
 
+/* twenty one */
+
+.twentyOne {
+  background-color: #fff1e6;
+  height: 100vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.twentyOneContent {
+  width: 30%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10%;
+}
+
+.twentyOneContent h1 {
+  color: #2b2d42;
+  font-size: 20rem;
+}
+
+.bl1 {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.a2 {
+  font-family: 'Lobster', cursive;
+}
+
+.h3 {
+  font-family: 'Cabin', sans-serif;
+}
+
+
+.twentyOne p {
+  color: #2b2d42;
+  padding-top: 10%;
+}
+
+
+/* twenty two */
+
+.twentyTwo {
+  background-color: #1d3557;
+  height: 100vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.twentyTwoContent {
+  width: 30%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10%;
+}
+
+.twentyTwoContent h1 {
+  color: #ffffff;
+  font-size: 20rem;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.twentyTwo p {
+  color: #ffffff;
+  padding-top: 10%;
+}
+
+
 
 
 
