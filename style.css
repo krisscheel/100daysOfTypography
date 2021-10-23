@@ -905,5 +905,56 @@ h2 {
 
 
 
+/* fourteen  */
+
+.fourteen {
+  background-color: #fbfefb;
+  height: 180vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding-top: 20%;
+  z-index: 1; 
+}
+
+.fourteenContent h1 {
+  font-family: 'Fira Sans', sans-serif;
+  color: #bfff01;
+  font-size: 18rem;
+}
+
+#try {
+  font-family: 'Poller One', cursive;
+  font-size: 40rem;
+  color: #ff019d;
+  line-height: 0.5;
+}
+
+#some {
+font-family: 'Titan One', cursive;
+font-size: 30rem;
+line-height: 0.5;
+}
+
+#new {
+font-family: 'Playball', cursive;
+font-size: 40rem;
+color: #000000;
+line-height: 0.5;
+}
+
+.fourteen p {
+  color: #000000;
+  font-size: 3rem;
+  margin: 0 auto;
+  padding-top: 1200px;
+}
+
+.fourteen a {
+  text-decoration: none;
+}
+
+
 
 
