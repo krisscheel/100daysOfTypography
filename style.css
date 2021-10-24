@@ -602,6 +602,52 @@ h2 {
   padding-top: 1200px;
 }
 
+/* fourteen  */
+
+.fourteen {
+  background-color: #fbfefb;
+  height: 180vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding-top: 20%;
+  z-index: 1; 
+}
+
+.fourteenContent h1 {
+  font-family: 'Fira Sans', sans-serif;
+  color: #bfff01;
+  font-size: 18rem;
+}
+
+#try {
+  font-family: 'Poller One', cursive;
+  font-size: 40rem;
+  color: #ff019d;
+  line-height: 0.5;
+}
+
+#some {
+font-family: 'Titan One', cursive;
+font-size: 30rem;
+line-height: 0.5;
+}
+
+#new {
+font-family: 'Playball', cursive;
+font-size: 40rem;
+color: #000000;
+line-height: 0.5;
+}
+
+.fourteen p {
+  color: #000000;
+  font-size: 3rem;
+  margin: 0 auto;
+  padding-top: 1200px;
+}
+
 /* fifteen */
 
 .fifteen {
@@ -819,12 +865,10 @@ h2 {
   font-size: 20rem;
 }
 
-
 .twenty p {
   color: #f7f5fb;
   padding-top: 10%;
 }
-
 
 /* twenty one */
 
@@ -863,12 +907,10 @@ h2 {
   font-family: 'Cabin', sans-serif;
 }
 
-
 .twentyOne p {
   color: #2b2d42;
   padding-top: 10%;
 }
-
 
 /* twenty two */
 
@@ -901,59 +943,80 @@ h2 {
   padding-top: 10%;
 }
 
+/* twenty three */
 
-
-
-
-/* fourteen  */
-
-.fourteen {
-  background-color: #fbfefb;
-  height: 180vh;
+.twentyThree {
+  background-color: #ffffff;
+  height: 100vh;
   text-align: center;
   align-items: center;
   justify-content: center;
   position: relative;
-  padding-top: 20%;
-  z-index: 1; 
 }
 
-.fourteenContent h1 {
-  font-family: 'Fira Sans', sans-serif;
-  color: #bfff01;
-  font-size: 18rem;
+.twentyThreeContent {
+  width: 55%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10%;
 }
 
-#try {
-  font-family: 'Poller One', cursive;
-  font-size: 40rem;
-  color: #ff019d;
-  line-height: 0.5;
-}
-
-#some {
-font-family: 'Titan One', cursive;
-font-size: 30rem;
-line-height: 0.5;
-}
-
-#new {
-font-family: 'Playball', cursive;
-font-size: 40rem;
-color: #000000;
-line-height: 0.5;
-}
-
-.fourteen p {
+.twentyThreeContent h1 {
   color: #000000;
-  font-size: 3rem;
-  margin: 0 auto;
-  padding-top: 1200px;
+  font-size: 17rem;
+  font-family: 'Frank Ruhl Libre', serif; 
+  line-height: 1.2;
 }
 
-.fourteen a {
-  text-decoration: none;
+
+.hard, .messy, .gorg {
+font-family: 'Noto Serif Display', serif;
 }
+
+
+.twentyThree p {
+  color: #ffffff;
+  padding-top: 10%;
+}
+
+/* twenty four */
+
+.twentyFour {
+  background-color: #fdfdff;
+  height: 100vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.twentyFourContent {
+  width: 20%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10%;
+}
+
+.twentyFourContent h1 {
+  color: #354f52;
+  font-size: 17rem;
+  font-family: 'Abril Fatface', cursive;
+  line-height: 1.2;
+}
+
+
+.twentyFour p {
+  color: #354f52;
+  padding-top: 10%;
+}
+
+
+
+
 
 
 
