@@ -1014,10 +1014,35 @@ font-family: 'Noto Serif Display', serif;
   padding-top: 10%;
 }
 
+/* twenty five */
+
+.twentyFive {
+  background-color: #fdfdff;
+  height: 100vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.twentyFiveContent {
+  width: 20%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10%;
+}
+
+.twentyFiveContent h1 {
+  color: red;
+  font-size: 50rem;
+  font-family: 'Exo', sans-serif;
+  line-height: 1.2;
+}
 
 
-
-
-
-
-
+.twentyFive p {
+  color: red;
+  padding-top: 10%;
+}
