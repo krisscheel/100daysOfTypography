@@ -1046,3 +1046,89 @@ font-family: 'Noto Serif Display', serif;
   color: red;
   padding-top: 10%;
 }
+
+
+/* twenty six */
+
+.twentySix {
+  background-color: #f1faee;
+  height: 100vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.twentySixContent {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10%;
+}
+
+.twentySixContent h1 {
+  color: #1d3557;
+  font-size: 10rem;
+  font-family: 'Raleway', sans-serif;
+  line-height: 1.2;
+  font-weight: 100;
+  
+}
+
+#big1 {
+  font-size: 12rem;
+  font-weight: 200;
+}
+
+#big2 {
+  font-size: 20rem;
+  font-weight: 300;
+  line-height: 0.8;
+}
+
+#big3 {
+  font-size: 30rem;
+  font-weight: 800;
+  line-height: 1;
+}
+
+.twentySix p {
+  color: #1d3557;
+  padding-top: 10%;
+}
+
+/* twenty seven */
+
+.twentySeven {
+  background-color: #212529;
+  height: 100vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.twentySevenContent {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10%;
+}
+
+.twentySevenContent h1 {
+  color: #e9ecef;
+  font-size: 20rem;
+  font-family: 'Poiret One', cursive;
+  line-height: 1.2;
+  font-weight: 100;
+  
+}
+
+.twentySeven p {
+  color: #e9ecef;
+  padding-top: 30%;
+}
