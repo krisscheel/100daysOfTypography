@@ -1132,3 +1132,37 @@ font-family: 'Noto Serif Display', serif;
   color: #e9ecef;
   padding-top: 30%;
 }
+
+/* twenty eight */
+
+.twentyEight {
+  background-color: #edf6f9;
+  height: 100vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.twentyEightContent {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+}
+
+.twentyEightContent h1 {
+  color: #e29578;
+  font-size: 30rem;
+  font-family: 'Zen Kurenaido', sans-serif;
+  line-height: 1.2;
+  font-weight: 100;
+  
+}
+
+.twentyEight p {
+  color: #e29578;
+  padding-top: 30%;
+}
