@@ -1166,3 +1166,393 @@ font-family: 'Noto Serif Display', serif;
   color: #e29578;
   padding-top: 30%;
 }
+
+
+/* twenty nine */
+
+.twentyNine {
+  background-color: #ffddd2;
+  height: 140vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.twentyNineContent {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+}
+
+.twentyNineContent h1 {
+  color: #023047;
+  font-size: 30rem;
+  font-family: 'DM Serif Display', serif;
+  line-height: 1.2;
+  font-weight: 100;
+  
+}
+
+.twentyNine p {
+  color: #023047;
+  padding-top: 30%;
+}
+
+
+/* thirty */
+
+.thirty {
+  background-color: #caf0f8;
+  height: 140vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.thirtyContent {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+}
+
+.thirtyContent h1 {
+  color: #03045e;
+  font-size: 30rem;
+  font-family: 'Gluten', cursive;
+  line-height: 1.2;
+  font-weight: 100;
+  
+}
+
+.thirty p {
+  color: #03045e;
+  padding-top: 30%;
+}
+
+
+/* thirtyOne */
+
+.thirtyOne {
+  background-color: #000000;
+  height: 140vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.thirtyOneContent {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+}
+
+.thirtyOneContent h1 {
+  color: #79e230;
+  font-size: 25rem;
+  letter-spacing: 50px;
+  font-family: 'Rubik Beastly', cursive;
+  line-height: 1.2;
+  font-weight: 100;
+  
+}
+
+.thirtyOne p {
+  color: #79e230;
+  padding-top: 30%;
+}
+
+
+/* thirtyTwo */
+
+.thirtyTwo {
+  background-color: #4f5d75;
+  height: 140vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.thirtyTwoContent {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+}
+
+.thirtyTwoContent h1 {
+  color: #56203d;
+  font-size: 25rem;
+  letter-spacing: 50px;
+  font-family: 'Arima Madurai', cursive;
+  line-height: 1.2;
+  font-weight: 100;
+  
+}
+
+.thirtyTwo p {
+  color: #56203d;
+  padding-top: 30%;
+}
+
+/* thirtyThree */
+
+.thirtyThree {
+  background-color: #585123;
+  height: 140vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.thirtyThreeContent {
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+}
+
+.thirtyThreeContent h1 {
+  color: #eec170;
+  font-size: 15rem;
+  letter-spacing: 50px;
+  font-family: 'Jost', sans-serif;
+  line-height: 1.2;
+  font-weight: 100;
+  
+}
+
+.thirtyThree p {
+  color: #eec170;
+  padding-top: 30%;
+}
+
+/* thirtyFour */
+
+.thirtyFour {
+  background-color: #ffe8d6;
+  height: 140vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.thirtyFourContent {
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+}
+
+.thirtyFourContent h1 {
+  color: #585123;
+  font-size: 15rem;
+  font-family: 'Sacramento', cursive;
+  line-height: 1.2;
+  font-weight: 100;
+  
+}
+
+.thirtyFour p {
+  color: #eec170;
+  padding-top: 30%;
+}
+
+/* thirtyFive */
+
+.thirtyFive {
+  background-color: #f8f9fa;
+  height: 140vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.thirtyFiveContent {
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+}
+
+.thirtyFiveContent h1 {
+  color: #000000;
+  font-size: 15rem;
+  font-family: 'Mulish', sans-serif;
+  line-height: 1.2;
+  font-weight: 800;
+}
+
+.thirtyFiveContent h2 {
+  font-size: 10rem;
+  font-weight: 300;
+}
+
+.thirtyFive p {
+  color: #000000;
+  padding-top: 30%;
+}
+
+/* thirtySix */
+
+.thirtySix {
+  background-color: #ede0d4;
+  height: 140vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.thirtySixContent {
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+}
+
+.thirtySixContent h1 {
+  color: #3d405b;
+  font-size: 15rem;
+  font-family: 'Be Vietnam Pro', sans-serif;
+  line-height: 1.2;
+  font-weight: 800;
+}
+
+.thirtySix p {
+  color: #3d405b;
+  padding-top: 30%;
+}
+
+
+/* thirtySeven */
+
+.thirtySeven {
+  background-color: #000000;
+  height: 140vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.thirtySevenContent {
+  width: 40%;
+  height: 100%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 1000px;
+}
+
+.thirtySevenContent h1 {
+  color: #ffffff;
+  font-size: 45rem;
+  font-family: 'Michroma', sans-serif;
+  line-height: 1.2;
+  font-weight: 800;
+}
+
+.thirtySeven p {
+  color: #ffffff;
+  padding-top: 30%;
+}
+
+
+/* thirtyEight */
+
+.thirtyEight {
+  height: 140vh;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+  background-color: #ffffff;
+}
+
+.thirtyEightContent {
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 200px;
+}
+
+.thirtyEightContent h1 {
+  color: #70e000;
+  font-size: 25rem;
+  font-family: 'Limelight', cursive;
+  line-height: 1.2;
+}
+
+.thirtyEight p {
+  color: #70e000;
+  padding-top: 30%;
+}
+
+
+/* thirtyNine */
+
+.thirtyNine {
+  height: 140vh;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+  background-color: #a5a58d;
+}
+
+.thirtyNineContent {
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 200px;
+}
+
+.thirtyNineContent h1 {
+  color: #ffb3c1;
+  font-size: 25rem;
+  font-family: 'Poller One', cursive;
+}
+
+.thirtyNineContent h2 {
+  font-family: 'Parisienne', cursive;
+  color: #ffb3c1;
+  font-size: 25rem;
+}
+
+.thirtyNine p {
+  color: #ffb3c1;
+  padding-top: 30%;
+}
