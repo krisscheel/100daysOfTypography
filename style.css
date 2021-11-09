@@ -1556,3 +1556,35 @@ font-family: 'Noto Serif Display', serif;
   color: #ffb3c1;
   padding-top: 30%;
 }
+
+/* Fourty */
+
+.Fourty {
+  height: 140vh;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+  background-color: #e8e8e4;
+}
+
+.FourtyContent {
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 200px;
+}
+
+.FourtyContent h1 {
+  color: #ff4d6d;
+  font-size: 25rem;
+  font-family: 'Niconne', cursive;
+}
+
+.Fourty p {
+  color: #ff4d6d;
+  padding-top: 30%;
+}
