@@ -1559,7 +1559,7 @@ font-family: 'Noto Serif Display', serif;
 
 /* Fourty */
 
-.Fourty {
+.fourty {
   height: 140vh;
   margin: auto;
   text-align: center;
@@ -1569,7 +1569,7 @@ font-family: 'Noto Serif Display', serif;
   background-color: #e8e8e4;
 }
 
-.FourtyContent {
+.fourtyContent {
   width: 40%;
   margin: auto;
   text-align: center;
@@ -1578,13 +1578,149 @@ font-family: 'Noto Serif Display', serif;
   padding-top: 200px;
 }
 
-.FourtyContent h1 {
+.fourtyContent h1 {
   color: #ff4d6d;
   font-size: 25rem;
   font-family: 'Niconne', cursive;
 }
 
-.Fourty p {
+.fourty p {
   color: #ff4d6d;
+  padding-top: 30%;
+}
+
+/* Fourty One */
+
+.fourtyOne {
+  height: 140vh;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+  background-color: #caf0f8;
+}
+
+.fourtyOneContent {
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 200px;
+}
+
+.fourtyOneContent h1 {
+  color: #fb8500;
+  font-size: 25rem;
+  font-family: 'Mochiy Pop One', sans-serif;
+}
+
+.fourtyOne p {
+  color: #fb8500;
+  padding-top: 30%;
+}
+
+
+/* Fourty Two */
+
+.fourtyTwo {
+  height: 140vh;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+  background-color: #0d2c54;
+}
+
+.fourtyTwoContent {
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 200px;
+}
+
+.fourtyTwoContent h1 {
+  color: #f0f3bd;
+  font-size: 25rem;
+  font-family: 'Caveat', cursive;
+  font-weight: 500;
+}
+
+.fourtyTwoContent span {
+  font-family: 'Caveat', cursive;
+  font-weight: 700;
+}
+
+.fourtyTwo p {
+  color: #f0f3bd;
+  padding-top: 30%;
+}
+
+
+/* Fourty Three */
+
+.fourtyThree {
+  height: 140vh;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+  background-color: #BBB891;
+}
+
+.fourtyThreeContent {
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 200px;
+}
+
+.fourtyThreeContent h1 {
+  color: #ffe300;
+  font-size: 25rem;
+  font-family: 'Alfa Slab One', cursive;
+}
+
+.fourtyThree p {
+  color: #ffe300;
+  padding-top: 30%;
+}
+
+/* Fourty Four */
+
+.fourtyFour {
+  height: 140vh;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+  background-color: #115546;
+}
+
+.fourtyFourContent {
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 200px;
+}
+
+.fourtyFourContent h1 {
+  color: #afafdc;
+  font-size: 15rem;
+  font-family: 'Yuji Syuku', serif;
+}
+
+.fourtyFour p {
+  color: #afafdc;
   padding-top: 30%;
 }
