@@ -1724,3 +1724,67 @@ font-family: 'Noto Serif Display', serif;
   color: #afafdc;
   padding-top: 30%;
 }
+
+/* Fourty Five */
+
+.fourtyFive {
+  height: 140vh;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+  background-color: #ffffff;
+}
+
+.fourtyFiveContent {
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 200px;
+}
+
+.fourtyFiveContent h1 {
+  color: #000000;
+  font-size: 25rem;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.fourtyFive p {
+  color: #000000;
+  padding-top: 30%;
+}
+
+/* Fourty Six */
+
+.fourtySix {
+  height: 140vh;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+  background-color: #000000;
+}
+
+.fourtySixContent {
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 200px;
+}
+
+.fourtySixContent h1 {
+  color: #ffffff;
+  font-size: 25rem;
+  font-family: 'Dosis', sans-serif;
+}
+
+.fourtySix p {
+  color: #ffffff;
+  padding-top: 30%;
+}
