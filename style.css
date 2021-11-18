@@ -1788,3 +1788,113 @@ font-family: 'Noto Serif Display', serif;
   color: #ffffff;
   padding-top: 30%;
 }
+
+/* Fourty Seven */
+
+.fourtySeven {
+  height: 140vh;
+  margin: auto;
+  align-items: center;
+  justify-content: left;
+  padding-top: 30%;
+  background-color: #ffffff;
+}
+
+.fourtySevenContent {
+  width: 40%;
+  margin: auto;
+  align-items: center;
+  justify-content: left;
+  padding-top: 200px;
+}
+
+.fourtySevenContent h1 {
+  color: #ae2012;
+  font-size: 25rem;
+  font-family: 'Oswald', sans-serif;
+}
+
+.fourtySeven p {
+  color: #ae2012;
+  padding-top: 30%;
+}
+
+
+/* Fourty Eight */
+
+.fourtyEight {
+  height: 140vh;
+  margin: auto;
+  align-items: center;
+  justify-content: left;
+  padding-top: 30%;
+  background-color: #ffffff;
+}
+
+.fourtyEightContent {
+  width: 40%;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  padding-top: 200px;
+}
+
+.fourtyEightContent h1 {
+  color: #0aff99;
+  font-size: 15rem;
+  font-family: 'Dancing Script', cursive;
+}
+
+.fourtyEightContent h2 {
+  color: #0aff99;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 10rem;
+  justify-content: right;
+}
+
+.fourtyEight p {
+  color: #0aff99;
+  padding-top: 30%;
+}
+
+
+/* Fourty Nine */
+
+.fourtyNine {
+  height: 160vh;
+  margin: auto;
+  align-items: center;
+  justify-content: left;
+  padding-top: 30%;
+  background-color: #073b4c;
+}
+
+.fourtyNineContent {
+  width: 40%;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  padding-top: 200px;
+}
+
+.fourtyNineContent h1 {
+  color: #118ab2;
+  font-size: 15rem;
+  font-family: 'Roboto Mono', monospace;
+  font-style: italic;
+  line-height: 1.5;
+}
+
+.fourtyNineContent h2 {
+  color: #118ab2;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 10rem;
+  justify-content: right;
+  padding-top: 150px;
+}
+
+.fourtyNine p {
+  color: #283618;
+  padding-top: 30%;
+}
+
