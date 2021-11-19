@@ -12,10 +12,10 @@
 
 /* INTRODUCTION PAGE */
 .intro {
-  color: #ffffff;
-  font-family: 'Righteous', cursive;
-  font-size: 10rem;
-  background-color: blue;
+  color: #000000;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 25rem;
+  background-color: #ffffff;
   height: 120vh;
   display: flex;
   flex-direction: column;
@@ -24,7 +24,6 @@
 }
 
 .introContent {
-  font-family: 'Righteous', cursive;
   width: 60vw;
   display: flex;
   flex-wrap: wrap;
@@ -32,7 +31,6 @@
   align-items: center;
   text-align: center;
   margin: 0 auto;
-  color: white;
   animation: fadein 1.5s 0.5s both cubic-bezier(.17,.67,.9,.33);
 }
 
@@ -1897,4 +1895,35 @@ font-family: 'Noto Serif Display', serif;
   color: #283618;
   padding-top: 30%;
 }
+/* Fifty */
+
+.fifty {
+  height: 160vh;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+  background-color: #ffffff;
+}
+
+.fiftyContent {
+  width: 40%;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  padding-top: 200px;
+}
+
+.fiftyContent h1 {
+  color: #1b263b;
+  font-size: 30rem;
+  font-family: 'Nunito', sans-serif;
+  line-height: 1.5;
+}
+
+.fifty p {
+  color: #1b263b;
+  padding-top: 30%;
+}
+
 
