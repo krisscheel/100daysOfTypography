@@ -1895,6 +1895,7 @@ font-family: 'Noto Serif Display', serif;
   color: #283618;
   padding-top: 30%;
 }
+
 /* Fifty */
 
 .fifty {
@@ -1925,5 +1926,204 @@ font-family: 'Noto Serif Display', serif;
   color: #1b263b;
   padding-top: 30%;
 }
+
+/* Fifty One */
+
+.fiftyOne {
+  height: 160vh;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+  background-color: #14213d;
+}
+
+.fiftyOneContent {
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 200px;
+}
+
+.fiftyOneContent h1 {
+  color: #ffffff;
+  font-size: 30rem;
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+}
+
+.fiftyOne p {
+  color: #ffffff;
+  padding-top: 30%;
+}
+
+
+/* Fifty Two */
+
+.fiftyTwo {
+  height: 160vh;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+  background-color: #ffffff;
+}
+
+.fiftyTwoContent {
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 200px;
+}
+
+.fiftyTwoContent h1 {
+  color: #a7c957;
+  font-size: 30rem;
+  font-family: 'Lora', serif;
+  font-style: italic;
+}
+
+.fiftyTwo p {
+  color: #a7c957;
+  padding-top: 30%;
+}
+
+
+/* Fifty Three */
+
+.fiftyThree {
+  height: 160vh;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+  background-color: #b7e4c7;
+}
+
+.fiftyThreeContent {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 200px;
+}
+
+.fiftyThreeContent h1 {
+  color: #081c15;
+  font-size: 20rem;
+  font-family: 'Nanum Gothic', sans-serif;
+  font-style: italic;
+}
+
+.fiftyThree p {
+  color: #081c15;
+  padding-top: 30%;
+}
+
+
+/* Fifty Four */
+
+.fiftyFour {
+  height: 160vh;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+  background-color: #ff51eb;
+}
+
+.fiftyFourContent {
+  width: 45%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 200px;
+}
+
+.fiftyFourContent h1 {
+  color: #ede342;
+  font-size: 20rem;
+  font-family: 'Heebo', sans-serif;
+  font-style: italic;
+}
+
+.fiftyFour p {
+  color: #ede342;
+  padding-top: 30%;
+}
+
+
+/* Fifty Five */
+
+.fiftyFive {
+  height: 160vh;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+  background-color: #fff0f3;
+}
+
+.fiftyFiveContent {
+  width: 45%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 200px;
+}
+
+.fiftyFiveContent h1 {
+  color: #000000;
+  font-size: 25rem;
+  font-family: 'Passions Conflict', cursive;
+  font-style: italic;
+}
+
+.fiftyFive p {
+  color: #000000;
+  padding-top: 30%;
+}
+
+
+/* Fifty Six */
+
+.fiftySix {
+  height: 160vh;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30%;
+  background-color: #ffef9f;
+}
+
+.fiftySixContent {
+  width: 45%;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 200px;
+}
+
+.fiftySixContent h1 {
+  color: #ff595e;
+  font-size: 25rem;
+  font-family: 'Outfit', sans-serif;
+  font-style: italic;
+}
+
+.fiftySix p {
+  color: #ff595e;
+  padding-top: 30%;
+}
+
+
 
 
