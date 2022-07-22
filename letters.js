@@ -4,7 +4,7 @@ const runRandom = (tag) => {
   const originalContent = tag.dataset.original;
   let newContent = "";
   let num = 0;
-  const randomList = "abcdefghijklmnopqstuvwxyz*.&$#@!".split("");
+  const randomList = "abcdefghijklmnopqstuvwxyz*".split("");
 
   const addInterval = setInterval(() => {
     num = num + 1;
